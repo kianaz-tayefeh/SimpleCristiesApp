@@ -1,3 +1,10 @@
 # SimpleCristiesApp
 
-Crud Project with dotnet 8.0 and postgres
+Simple API for the Auctions
+CRUD
+Seed data
+Use Docker Compose
+
+### using
+Dotnet 8.0
+Postgres
