@@ -6,5 +6,5 @@ Seed data
 Use Docker Compose
 
 ### using
-Dotnet 8.0
+Dotnet 8.0, 
 Postgres
