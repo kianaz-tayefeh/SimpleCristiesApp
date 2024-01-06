@@ -108,7 +108,5 @@ public class AuctionController : ControllerBase
 
         if (result) return Ok();
         return BadRequest("Couldn't update DB");
-
     }
-
 }
